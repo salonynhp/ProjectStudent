@@ -1,0 +1,11 @@
+C:\Users\salon\source\repos\StudentMarks\Student.Model\bin\Debug\net8.0\Student.Model.deps.json
+C:\Users\salon\source\repos\StudentMarks\Student.Model\bin\Debug\net8.0\Student.Model.dll
+C:\Users\salon\source\repos\StudentMarks\Student.Model\bin\Debug\net8.0\Student.Model.pdb
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\Student.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\Student.Model.AssemblyInfoInputs.cache
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\Student.Model.AssemblyInfo.cs
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\Student.Model.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\Student.Model.dll
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\refint\Student.Model.dll
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\Student.Model.pdb
+C:\Users\salon\source\repos\StudentMarks\Student.Model\obj\Debug\net8.0\ref\Student.Model.dll

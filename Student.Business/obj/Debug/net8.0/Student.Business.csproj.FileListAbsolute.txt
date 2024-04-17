@@ -1,0 +1,11 @@
+C:\Users\salon\source\repos\StudentMarks\Student.Business\bin\Debug\net8.0\Student.Business.deps.json
+C:\Users\salon\source\repos\StudentMarks\Student.Business\bin\Debug\net8.0\Student.Business.dll
+C:\Users\salon\source\repos\StudentMarks\Student.Business\bin\Debug\net8.0\Student.Business.pdb
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\Student.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfoInputs.cache
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfo.cs
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\Student.Business.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\Student.Business.dll
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\refint\Student.Business.dll
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\Student.Business.pdb
+C:\Users\salon\source\repos\StudentMarks\Student.Business\obj\Debug\net8.0\ref\Student.Business.dll
